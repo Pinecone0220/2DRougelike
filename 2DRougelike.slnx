@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="CFXRDemo.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="CFXRRuntime.csproj" />
+  <Project Path="KinoBloom.Runtime.csproj" />
+  <Project Path="CFXREditor.csproj" />
+  <Project Path="Alebardium.BloodlinesUI.csproj" />
+  <Project Path="ToonyColorsPro.Demo.Editor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+</Solution>
